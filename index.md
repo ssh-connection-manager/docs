@@ -1,25 +1,20 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
 hero:
   name: "ssh+"
   text: "connect ssh manager"
-  tagline: My great project tagline
+  tagline: save and fast your connects
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
-
+      text: All commands
+      link: /commands
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Connect Manager
+    details: saved connects ssh+ in console
+  - title: Private data
+    details: Data save asp crypt
+  - title: Beautiful visual cli
+    details: original and max color user select and input
 ---
 
