@@ -1,13 +1,15 @@
 ---
-title: All commands - create
+title: Create
 lang: en-US
 ---
 
-::: info Description
+# Create command
+
+Creates a connection
+
 This command creates connections,
 that you can reuse when connecting via ssh
-:::
 
-<br>
+## Video
 
-<a href="https://asciinema.org/a/667930" target="_blank"><img src="https://asciinema.org/a/667930.svg" /></a>
+[![asciicast](https://asciinema.org/a/667930.svg)](https://asciinema.org/a/667930)
