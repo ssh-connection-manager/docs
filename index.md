@@ -2,8 +2,7 @@
 layout: home
 
 hero:
-  name: "ssh+"
-  text: "Connect ssh manager"
+  name: "SSH+"
   tagline: Save and fast your connects
   actions:
     - theme: brand
