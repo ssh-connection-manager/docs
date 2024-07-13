@@ -1,8 +1,8 @@
 import {defineConfig} from 'vitepress'
 
 export default defineConfig({
-    title: "ssh+",
-    description: "connect ssh manager",
+    title: "ssh connect manager",
+    description: "ssh connect manager",
     head: [
         ['link', { rel: "icon", type: "image/png", sizes: "32x32", href: "/assets/favicons/favicon-32x32.png"}],
         ['link', { rel: "icon", type: "image/png", sizes: "16x16", href: "/assets/favicons/favicon-16x16.png"}],
