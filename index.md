@@ -3,12 +3,15 @@ layout: home
 
 hero:
   name: "ssh+"
-  text: "connect ssh manager"
-  tagline: save and fast your connects
+  text: "Connect ssh manager"
+  tagline: Save and fast your connects
   actions:
     - theme: brand
-      text: All commands
-      link: /commands
+      text: Get started
+      link: /documentation/aboutApp
+    - theme: brand
+      text: Download
+      link: /documentation/download
 features:
   - title: Connect Manager
     details: saved connects ssh+ in console
