@@ -13,8 +13,7 @@ export default defineConfig({
                 text: 'Documentation',
                 collapsed: false,
                 items: [
-                    { text: 'About CLI app', link: '/documentation/aboutApp' },
-                    { text: 'Getting Started', link: '/documentation/getStarted' },
+                    { text: 'About app', link: '/documentation/aboutApp' },
                     { text: 'Download', link: '/documentation/download' },
                 ]
             },
