@@ -1,6 +1,5 @@
 ---
 title: Download
-lang: en-US
 ---
 
 # Download ssh+

@@ -3,7 +3,7 @@ layout: home
 
 hero:
   name: "SSH+"
-  tagline: Save and fast your connects
+  tagline: Save and connect quickly
   actions:
     - theme: brand
       text: Get started

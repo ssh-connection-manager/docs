@@ -1,6 +1,5 @@
 ---
 title: Delete
-lang: en-US
 ---
 
 # Delete command

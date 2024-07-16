@@ -1,6 +1,5 @@
 ---
 title: Change
-lang: en-US
 ---
 
 # Change command
