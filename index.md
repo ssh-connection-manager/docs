@@ -2,19 +2,24 @@
 layout: home
 
 hero:
-  name: "ssh+"
-  text: "connect ssh manager"
-  tagline: save and fast your connects
+  name: "SSH+"
+  tagline: Save and fast your connects
   actions:
     - theme: brand
-      text: All commands
-      link: /commands
+      text: Get started
+      link: /documentation/aboutApp
+    - theme: alt
+      text: Download
+      link: /documentation/download
 features:
-  - title: Connect Manager
+  - icon: 🖥
+    title: Connect Manager
     details: saved connects ssh+ in console
-  - title: Private data
+  - icon: 🔐
+    title: Private data
     details: Data save asp crypt
-  - title: Beautiful visual cli
+  - icon: ☀
+    title: Beautiful visual cli
     details: original and max color user select and input
 ---
 
