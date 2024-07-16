@@ -8,7 +8,7 @@ hero:
     - theme: brand
       text: Get started
       link: /documentation/aboutApp
-    - theme: brand
+    - theme: alt
       text: Download
       link: /documentation/download
 features:
