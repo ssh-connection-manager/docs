@@ -1,6 +1,5 @@
 ---
 title: Create
-lang: en-US
 ---
 
 # Create command

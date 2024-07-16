@@ -1,6 +1,5 @@
 ---
 title: About app
-lang: en-US
 ---
 
 # Delete command

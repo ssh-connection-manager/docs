@@ -1,6 +1,5 @@
 ---
 title: List
-lang: en-US
 ---
 
 # List command
