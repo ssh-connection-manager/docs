@@ -4,6 +4,8 @@ import { defineConfig } from 'vitepress'
 export const shared = defineConfig({
     title: 'SSH+',
 
+    base: '/docs/',
+
     /* prettier-ignore */
     head: [
         ['link', { rel: "icon", type: "image/png", sizes: "32x32", href: "/assets/favicons/favicon-32x32.png"}],
