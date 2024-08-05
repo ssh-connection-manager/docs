@@ -2,7 +2,7 @@
 title: About app
 ---
 
-# Delete command
+# About app
 
 This application allows you to create alias connections
 and use them when you choose to connect to an ssh connection
