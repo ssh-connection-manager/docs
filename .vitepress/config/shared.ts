@@ -8,7 +8,7 @@ export const shared = defineConfig({
 
     /* prettier-ignore */
     head: [
-        ['link', { rel: "shortcut icon", type: "image/x-icon", href: "/assets/favicon.ico"}],
+        ['link', { rel: "shortcut icon", type: "image/x-icon", href: "favicon.ico"}],
     ],
 
     themeConfig: {
